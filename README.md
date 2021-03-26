@@ -11,7 +11,7 @@ simple data-oriented ECS, used in my personal game engine
 		}
 
 		public void MyUpdateFunc(){
-			Console.WriteLine("I fucking hate capitalism");
+			Console.WriteLine(str);
 		}
 	}
 
