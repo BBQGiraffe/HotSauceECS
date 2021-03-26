@@ -3,7 +3,6 @@ simple data-oriented ECS, used in my personal game engine
 
 ## example code:
 
-'csharp
 
 	class TestComponent : Component{
 		public string str = "big floppa";
@@ -32,4 +31,4 @@ simple data-oriented ECS, used in my personal game engine
 
 		}
 	} 
-'
+
